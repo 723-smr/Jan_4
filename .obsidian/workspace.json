@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test1.md",
+                "file": "123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "test1 的出链列表"
+              "title": "123 的出链列表"
             }
           },
           {
@@ -171,20 +171,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test1.md",
+                "file": "123.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "test1 的大纲"
+              "title": "123 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
